@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Prime Bank Intranet Portal</title>
+    <title>Meetup Application</title>
 
     <link href="{{ asset('/assets/css/style.default.css') }}" rel="stylesheet">
     <link href="{{ asset('/assets/css/select2.css')}}" rel="stylesheet" />
